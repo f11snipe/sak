@@ -13,7 +13,7 @@ Clone this repo and compile with `gcc`
   - *you can change values defined in `sak.c` for custom env vars*
 
 ```bash
-gcc sak.c -o sak
+gcc sak.c -o sak -static
 ```
 
 ## Generate Environment
